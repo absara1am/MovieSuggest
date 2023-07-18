@@ -1,4 +1,4 @@
-# Movie-Recommender-using-Python
+# MovieSuggest
 
 This repository contains a Python implementation of a movie recommender system. The code reads in a dataset of user ratings for movies and performs 
 various analyses to generate movie recommendations based on user preferences.
